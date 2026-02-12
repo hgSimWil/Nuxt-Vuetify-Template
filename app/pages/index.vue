@@ -32,5 +32,3 @@ function goToContactUsGoddamit() {
   navigateTo('/kontakta-oss');
 }
 </script>
-
-</script>
